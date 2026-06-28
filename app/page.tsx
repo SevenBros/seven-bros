@@ -269,32 +269,8 @@ export default function Home() {
           </div>
         </div>
         <div className="contact-form reveal d2">
-          <div className="field">
-            <input type="text" id="f-name" placeholder="Name" data-en-placeholder="Name" data-ja-placeholder="お名前" autoComplete="off" />
-            <label className="field-label" htmlFor="f-name">Name</label>
-          </div>
-          <div className="field">
-            <input type="email" id="f-email" placeholder="Email" data-en-placeholder="Email" data-ja-placeholder="メールアドレス" autoComplete="off" />
-            <label className="field-label" htmlFor="f-email">Email</label>
-          </div>
-          <div className="field">
-            <input type="text" id="f-project" placeholder="Project type" data-en-placeholder="Project type" data-ja-placeholder="プロジェクトの種類" autoComplete="off" />
-            <label className="field-label" htmlFor="f-project">Project type</label>
-          </div>
-          <div className="field">
-            <textarea id="f-msg" placeholder="Message" data-en-placeholder="Message" data-ja-placeholder="メッセージ"></textarea>
-            <label className="field-label" htmlFor="f-msg">Message</label>
-          </div>
           <div className="form-actions">
-            <button className="btn-send" data-en="Send Message" data-ja="送信する" onClick={() => {
-              const name = (document.getElementById('f-name') as HTMLInputElement)?.value || '';
-              const email = (document.getElementById('f-email') as HTMLInputElement)?.value || '';
-              const project = (document.getElementById('f-project') as HTMLInputElement)?.value || '';
-              const msg = (document.getElementById('f-msg') as HTMLTextAreaElement)?.value || '';
-              const subject = encodeURIComponent(`[Seven Bros. Contact] ${project || 'New Inquiry'}`);
-              const body = encodeURIComponent(`Name: ${name}\nEmail: ${email}\nProject: ${project}\n\n${msg}`);
-              window.location.href = `mailto:info@seven-bros.com?subject=${subject}&body=${body}`;
-            }}>Send Message</button>
+            <button className="btn-send" data-en="Send Message" data-ja="送信する" onClick={() => { window.location.href = 'mailto:info@seven-bros.com'; }}>Send Message</button>
           </div>
         </div>
       </section>
