@@ -203,6 +203,26 @@ export default function Home() {
         </div>
       </section>
 
+      {/* AUTOMOTIVE */}
+      <section className="product-photo" id="automotive">
+        <div>
+          <div className="section-label">Automotive</div>
+          <h2 className="work-h2">Machines<br />in Motion.</h2>
+        </div>
+        <div className="auto-grid">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/auto-3.jpg" alt="" className="auto-img auto-portrait" />
+          <div className="auto-stack">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src="/auto-1.jpg" alt="" className="auto-img" />
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src="/auto-4.jpg" alt="" className="auto-img" />
+          </div>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/auto-2.jpg" alt="" className="auto-img auto-wide" />
+        </div>
+      </section>
+
       {/* STATEMENT / ABOUT */}
       <section className="statement" id="about">
         <div className="reveal">
