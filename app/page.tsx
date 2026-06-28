@@ -207,7 +207,7 @@ export default function Home() {
           <div className="ad-caption">
             <p className="ad-caption-eyebrow" data-en="Automotive" data-ja="オートモーティブ">Automotive</p>
             <h3 className="ad-caption-title">Built to<br />move.</h3>
-            <p className="ad-caption-body" data-en="From raw power to refined detail — we frame machines the way each project demands. Every shot is crafted with a single purpose: to captivate the viewer." data-ja="力強さから繊細なディテールまで、クライアントのニーズに応じた最適なアングルで撮影します。すべてのカットに、見る者の心を掴むという明確な意図があります。">From raw power to refined detail — we capture machines the way they deserve to be seen. Every shot is engineered for impact.</p>
+            <p className="ad-caption-body" data-en="From raw power to refined detail — we shoot from the angle that best serves each client's needs. Every frame is crafted with one clear intent: to capture the hearts of those who see it." data-ja="力強さから繊細なディテールまで、クライアントのニーズに応じた最適なアングルで撮影します。すべてのカットに、見る者の心を掴むという明確な意図があります。">From raw power to refined detail — we capture machines the way they deserve to be seen. Every shot is engineered for impact.</p>
           </div>
         </div>
       </section>
