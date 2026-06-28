@@ -201,14 +201,6 @@ export default function Home() {
             <p className="ad-caption-body" data-en="Our photographers and designers work as one — from concept to final frame. The result is advertising that moves fast, stays consistent, and never compromises on craft." data-ja="カメラマンとデザイナーがインハウスでタッグを組み、コンセプトから仕上げまで一貫して制作します。スピーディーでありながら、ブレのないクリエイティブが実現します。">Our photographers and designers work as one — from concept to final frame. The result is advertising that moves fast, stays consistent, and never compromises on craft.</p>
           </div>
         </div>
-      </section>
-
-      {/* AUTOMOTIVE */}
-      <section className="product-photo" id="automotive">
-        <div>
-          <div className="section-label">Automotive</div>
-          <h2 className="work-h2">Machines<br />in Motion.</h2>
-        </div>
         <div className="ad-feature">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src="/auto-1.jpg" alt="" className="ad-img-fit" />
