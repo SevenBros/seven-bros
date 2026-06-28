@@ -280,7 +280,7 @@ nav.scrolled {
 }
 .work-h2 {
   font-family: var(--font-display);
-  font-size: clamp(28px, 3.5vw, 48px);
+  font-size: clamp(40px, 5.5vw, 72px);
   font-weight: 300; letter-spacing: .04em; line-height: 1.02;
 }
 .work-all {
