@@ -435,7 +435,7 @@ nav.scrolled {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 5px;
-  max-width: 600px;
+  max-width: 1200px;
 }
 .ad-img-fit {
   width: 100%;
