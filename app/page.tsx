@@ -199,12 +199,6 @@ export default function Home() {
           <img src="/ad-2.jpg" alt="" className="ad-img" />
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src="/ad-3.jpg" alt="" className="ad-img" />
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/ad-4.jpg" alt="" className="ad-img" />
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/ad-5.jpg" alt="" className="ad-img" />
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/ad-6.jpg" alt="" className="ad-img" />
         </div>
       </section>
 
