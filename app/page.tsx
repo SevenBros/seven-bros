@@ -192,25 +192,19 @@ export default function Home() {
           <div className="section-label">Advertising Photography</div>
           <h2 className="work-h2">Made to<br />Move People.</h2>
         </div>
-        <div className="pp-grid">
-          <div className="pp-item">
-            <div className="pp-inner" style={{backgroundImage: "url('/ad-1.jpg')"}}></div>
-          </div>
-          <div className="pp-item">
-            <div className="pp-inner" style={{backgroundImage: "url('/ad-2.jpg')"}}></div>
-          </div>
-          <div className="pp-item">
-            <div className="pp-inner" style={{backgroundImage: "url('/ad-3.jpg')"}}></div>
-          </div>
-          <div className="pp-item">
-            <div className="pp-inner" style={{backgroundImage: "url('/ad-4.jpg')"}}></div>
-          </div>
-          <div className="pp-item">
-            <div className="pp-inner" style={{backgroundImage: "url('/ad-5.jpg')"}}></div>
-          </div>
-          <div className="pp-item">
-            <div className="pp-inner" style={{backgroundImage: "url('/ad-6.jpg')"}}></div>
-          </div>
+        <div className="ad-grid">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/ad-1.jpg" alt="" className="ad-img" />
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/ad-2.jpg" alt="" className="ad-img" />
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/ad-3.jpg" alt="" className="ad-img" />
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/ad-4.jpg" alt="" className="ad-img" />
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/ad-5.jpg" alt="" className="ad-img" />
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/ad-6.jpg" alt="" className="ad-img" />
         </div>
       </section>
 

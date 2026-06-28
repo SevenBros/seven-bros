@@ -431,6 +431,23 @@ nav.scrolled {
   .pp-grid { grid-template-columns: repeat(2, 1fr); }
 }
 
+.ad-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 5px;
+}
+.ad-img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+@media (max-width: 960px) {
+  .ad-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 560px) {
+  .ad-grid { grid-template-columns: 1fr; }
+}
+
 /* ── CONTACT ── */
 .contact {
   padding: 140px 52px 120px;
