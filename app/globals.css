@@ -435,12 +435,11 @@ nav.scrolled {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 5px;
-  align-items: stretch;
+  max-width: 600px;
 }
 .ad-img-fit {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
+  height: auto;
   display: block;
 }
 @media (max-width: 560px) {

@@ -196,7 +196,7 @@ export default function Home() {
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src="/ad-1.jpg" alt="" className="ad-img-fit" />
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/ad-2.jpg" alt="" className="ad-img-fit" />
+          <img src="/ad-7.jpg" alt="" className="ad-img-fit" />
         </div>
       </section>
 
