@@ -436,7 +436,9 @@ nav.scrolled {
   align-items: center;
   gap: 64px;
   max-width: 860px;
-  margin-bottom: 80px;
+}
+.ad-feature + .ad-feature {
+  margin-top: 80px;
 }
 .ad-feature .ad-img-fit {
   width: 540px;
