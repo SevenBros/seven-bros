@@ -192,9 +192,14 @@ export default function Home() {
           <div className="section-label">Advertising Photography</div>
           <h2 className="work-h2">Advertising<br />beyond the ordinary.</h2>
         </div>
-        <div className="ad-single">
+        <div className="ad-feature">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src="/ad-1.jpg" alt="" className="ad-img-fit" />
+          <div className="ad-caption">
+            <p className="ad-caption-eyebrow">Our Approach</p>
+            <h3 className="ad-caption-title">In-house.<br />In sync.</h3>
+            <p className="ad-caption-body">Our photographers and designers work as one — from concept to final frame. The result is advertising that moves fast, stays consistent, and never compromises on craft.</p>
+          </div>
         </div>
       </section>
 
