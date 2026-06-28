@@ -190,7 +190,7 @@ export default function Home() {
       <section className="product-photo" id="advertising" style={{paddingTop: '80px', borderTop: '2px solid #C8B89A'}}>
         <div>
           <div className="section-label">Advertising Photography</div>
-          <h2 className="work-h2">Made to<br />Move People.</h2>
+          <h2 className="work-h2">Advertising<br />beyond the ordinary.</h2>
         </div>
         <div className="ad-single">
           {/* eslint-disable-next-line @next/next/no-img-element */}
