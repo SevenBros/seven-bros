@@ -288,7 +288,7 @@ export default function Home() {
           <div className="form-actions">
             <button className="btn-send" data-en="Send Message" data-ja="送信する">Send Message</button>
             <span className="form-or">or</span>
-            <a href="mailto:hello@seven-bros.com" className="form-email">hello@seven-bros.com</a>
+            <a href="mailto:info@seven-bros.com" className="form-email">info@seven-bros.com</a>
           </div>
         </div>
       </section>
