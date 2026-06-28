@@ -431,21 +431,20 @@ nav.scrolled {
   .pp-grid { grid-template-columns: repeat(2, 1fr); }
 }
 
-.ad-grid {
+.ad-grid-2 {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 1fr 1fr;
   gap: 5px;
+  align-items: stretch;
 }
-.ad-img {
+.ad-img-fit {
   width: 100%;
-  height: auto;
+  height: 100%;
+  object-fit: cover;
   display: block;
 }
-@media (max-width: 960px) {
-  .ad-grid { grid-template-columns: repeat(2, 1fr); }
-}
 @media (max-width: 560px) {
-  .ad-grid { grid-template-columns: 1fr; }
+  .ad-grid-2 { grid-template-columns: 1fr; }
 }
 
 /* ── CONTACT ── */

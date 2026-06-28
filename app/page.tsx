@@ -192,13 +192,11 @@ export default function Home() {
           <div className="section-label">Advertising Photography</div>
           <h2 className="work-h2">Made to<br />Move People.</h2>
         </div>
-        <div className="ad-grid">
+        <div className="ad-grid-2">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/ad-1.jpg" alt="" className="ad-img" />
+          <img src="/ad-1.jpg" alt="" className="ad-img-fit" />
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/ad-2.jpg" alt="" className="ad-img" />
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/ad-3.jpg" alt="" className="ad-img" />
+          <img src="/ad-2.jpg" alt="" className="ad-img-fit" />
         </div>
       </section>
 
