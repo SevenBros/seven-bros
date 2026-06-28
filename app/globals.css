@@ -283,6 +283,9 @@ nav.scrolled {
   font-size: clamp(40px, 5.5vw, 72px);
   font-weight: 300; letter-spacing: .04em; line-height: 1.02;
 }
+.work .work-h2 {
+  font-size: clamp(28px, 3.5vw, 48px);
+}
 .work-all {
   font-size: 10px; letter-spacing: .2em; text-transform: uppercase;
   color: rgba(242,237,228,.35); padding-bottom: 2px;
