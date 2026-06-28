@@ -186,6 +186,34 @@ export default function Home() {
         </div>
       </section>
 
+      {/* ADVERTISING */}
+      <section className="product-photo" id="advertising" style={{paddingTop: '80px', borderTop: '2px solid #C8B89A'}}>
+        <div>
+          <div className="section-label">Advertising Photography</div>
+          <h2 className="work-h2">Made to<br />Move People.</h2>
+        </div>
+        <div className="pp-grid">
+          <div className="pp-item">
+            <div className="pp-inner" style={{backgroundImage: "url('/ad-1.jpg')"}}></div>
+          </div>
+          <div className="pp-item">
+            <div className="pp-inner" style={{backgroundImage: "url('/ad-2.jpg')"}}></div>
+          </div>
+          <div className="pp-item">
+            <div className="pp-inner" style={{backgroundImage: "url('/ad-3.jpg')"}}></div>
+          </div>
+          <div className="pp-item">
+            <div className="pp-inner" style={{backgroundImage: "url('/ad-4.jpg')"}}></div>
+          </div>
+          <div className="pp-item">
+            <div className="pp-inner" style={{backgroundImage: "url('/ad-5.jpg')"}}></div>
+          </div>
+          <div className="pp-item">
+            <div className="pp-inner" style={{backgroundImage: "url('/ad-6.jpg')"}}></div>
+          </div>
+        </div>
+      </section>
+
       {/* STATEMENT / ABOUT */}
       <section className="statement" id="about">
         <div className="reveal">
