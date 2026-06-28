@@ -187,7 +187,7 @@ export default function Home() {
       </section>
 
       {/* ADVERTISING */}
-      <section className="product-photo" id="advertising" style={{paddingTop: '80px', borderTop: '2px solid #C8B89A'}}>
+      <section className="product-photo" id="advertising" style={{paddingTop: '80px'}}>
         <div>
           <div className="section-label">Advertising Photography</div>
           <h2 className="work-h2">Advertising<br />beyond the ordinary.</h2>
