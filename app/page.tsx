@@ -209,17 +209,14 @@ export default function Home() {
           <div className="section-label">Automotive</div>
           <h2 className="work-h2">Machines<br />in Motion.</h2>
         </div>
-        <div className="auto-grid">
+        <div className="ad-feature">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/auto-3.jpg" alt="" className="auto-img auto-portrait" />
-          <div className="auto-stack">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/auto-1.jpg" alt="" className="auto-img" />
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/auto-4.jpg" alt="" className="auto-img" />
+          <img src="/auto-1.jpg" alt="" className="ad-img-fit" />
+          <div className="ad-caption">
+            <p className="ad-caption-eyebrow" data-en="Automotive" data-ja="オートモーティブ">Automotive</p>
+            <h3 className="ad-caption-title">Built to<br />move.</h3>
+            <p className="ad-caption-body" data-en="From raw power to refined detail — we capture machines the way they deserve to be seen. Every shot is engineered for impact." data-ja="力強さから繊細なディテールまで、マシンをあるべき姿で切り取る。すべてのカットに、意図がある。">From raw power to refined detail — we capture machines the way they deserve to be seen. Every shot is engineered for impact.</p>
           </div>
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/auto-2.jpg" alt="" className="auto-img auto-wide" />
         </div>
       </section>
 
