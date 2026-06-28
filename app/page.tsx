@@ -286,9 +286,15 @@ export default function Home() {
             <label className="field-label" htmlFor="f-msg">Message</label>
           </div>
           <div className="form-actions">
-            <button className="btn-send" data-en="Send Message" data-ja="送信する">Send Message</button>
-            <span className="form-or">or</span>
-            <a href="mailto:info@seven-bros.com" className="form-email">info@seven-bros.com</a>
+            <button className="btn-send" data-en="Send Message" data-ja="送信する" onClick={() => {
+              const name = (document.getElementById('f-name') as HTMLInputElement)?.value || '';
+              const email = (document.getElementById('f-email') as HTMLInputElement)?.value || '';
+              const project = (document.getElementById('f-project') as HTMLInputElement)?.value || '';
+              const msg = (document.getElementById('f-msg') as HTMLTextAreaElement)?.value || '';
+              const subject = encodeURIComponent(`[Seven Bros. Contact] ${project || 'New Inquiry'}`);
+              const body = encodeURIComponent(`Name: ${name}\nEmail: ${email}\nProject: ${project}\n\n${msg}`);
+              window.location.href = `mailto:info@seven-bros.com?subject=${subject}&body=${body}`;
+            }}>Send Message</button>
           </div>
         </div>
       </section>
