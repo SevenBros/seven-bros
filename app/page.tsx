@@ -118,6 +118,7 @@ export default function Home() {
           <div>
             <div className="section-label">Selected Work</div>
             <h2 className="work-h2">Crafted<br />with Light.</h2>
+            <p className="section-caption" data-en="Light is our medium. Story is our craft. Every project begins with a single question — what do we want people to feel? From documentary to advertising to product photography, Seven Bros. Pictures speaks in light." data-ja="光が私たちの素材。物語が私たちの技術。すべてのプロジェクトは一つの問いから始まる——見る人に何を感じさせたいか。ドキュメンタリー、広告、商品撮影。ジャンルを超えて、Seven Bros. Picturesは光で語る。">Light is our medium. Story is our craft. Every project begins with a single question — what do we want people to feel? From documentary to advertising to product photography, Seven Bros. Pictures speaks in light.</p>
           </div>
           <a href="#" className="work-all" data-en="View All" data-ja="すべて見る">View All</a>
         </div>
@@ -157,6 +158,7 @@ export default function Home() {
         <div className="reveal">
           <div className="section-label">Product Photography</div>
           <h2 className="work-h2">Objects<br />in Light.</h2>
+          <p className="section-caption" data-en="Every object has a soul. We seek out what makes it irresistible. For over 15 years, we've pursued the art of sizzle in our own studio — bringing products to life, one shot at a time." data-ja="すべての物に、宿るものがある。それを引き出す魅力を、私たちは探す。我々は15年以上、自社スタジオを持ち、商品のシズルを追求し続けてきました。">Every object has a soul. We seek out what makes it irresistible. For over 15 years, we've pursued the art of sizzle in our own studio — bringing products to life, one shot at a time.</p>
         </div>
         <div className="pp-grid">
           <div className="pp-item reveal d1">
