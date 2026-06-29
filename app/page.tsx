@@ -39,12 +39,12 @@ export default function Home() {
 
     /* VIMEO REEL SWITCHER */
     const slides = document.querySelectorAll('.vimeo-slide');
-    let current = 0;
+    let current = 1;
     const INTERVAL = 4500;
     const showSlide = (index: number) => {
       slides.forEach((s, i) => s.classList.toggle('active', i === index));
     };
-    showSlide(0);
+    showSlide(1);
     const reelTimer = setInterval(() => {
       current = (current + 1) % slides.length;
       showSlide(current);
