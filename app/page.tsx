@@ -245,6 +245,12 @@ export default function Home() {
             Founded in California, with a base also in Tokyo — Seven Bros. Pictures has spent over 15 years as a hub between commerce and art. We partner with brands, agencies, and artists who refuse to settle, and together we make work that lasts.
           </p>
         </div>
+        <div className="bts-grid">
+          {[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16].map(n => (
+            // eslint-disable-next-line @next/next/no-img-element
+            <img key={n} src={`/bts-${n}.jpg`} alt="" className="bts-img" />
+          ))}
+        </div>
       </section>
 
       {/* SERVICES */}
