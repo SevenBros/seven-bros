@@ -156,41 +156,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* PRODUCT PHOTOGRAPHY */}
-      <section className="product-photo" id="product">
-        <div className="reveal">
-          <div className="section-label">Product Photography</div>
-          <h2 className="work-h2">Objects<br />in Light.</h2>
-          <p className="section-caption" data-en="Every object has a soul. We seek out what makes it irresistible. For over 15 years, we've pursued the art of sizzle in our own studio — bringing products to life, one shot at a time." data-ja="すべての物に、宿るものがある。それを引き出す魅力を、私たちは探す。我々は15年以上、自社スタジオを持ち、商品のシズルを追求し続けてきました。">Every object has a soul. We seek out what makes it irresistible. For over 15 years, we've pursued the art of sizzle in our own studio — bringing products to life, one shot at a time.</p>
-        </div>
-        <div className="pp-grid">
-          <div className="pp-item reveal d1">
-            <div className="pp-inner" style={{backgroundImage: "url('/work-1.jpg')"}}></div>
-          </div>
-          <div className="pp-item reveal d2">
-            <div className="pp-inner" style={{backgroundImage: "url('/work-2.jpg')"}}></div>
-          </div>
-          <div className="pp-item reveal d3">
-            <div className="pp-inner" style={{backgroundImage: "url('/work-3.jpg')"}}></div>
-          </div>
-          <div className="pp-item reveal d4">
-            <div className="pp-inner" style={{backgroundImage: "url('/pp-1.jpg')"}}></div>
-          </div>
-          <div className="pp-item reveal d1">
-            <div className="pp-inner" style={{backgroundImage: "url('/pp-2.jpg')"}}></div>
-          </div>
-          <div className="pp-item reveal d2">
-            <div className="pp-inner" style={{backgroundImage: "url('/pp-3.jpg')"}}></div>
-          </div>
-          <div className="pp-item reveal d3">
-            <div className="pp-inner" style={{backgroundImage: "url('/pp-4.jpg')"}}></div>
-          </div>
-          <div className="pp-item reveal d4">
-            <div className="pp-inner" style={{backgroundImage: "url('/pp-5.jpg')"}}></div>
-          </div>
-        </div>
-      </section>
-
       {/* ADVERTISING */}
       <section className="product-photo" id="advertising" style={{paddingTop: '80px'}}>
         <div>
@@ -223,6 +188,41 @@ export default function Home() {
             <p className="ad-caption-eyebrow" data-en="Documentary" data-ja="ドキュメンタリー">Documentary</p>
             <h3 className="ad-caption-title">Moments that<br />tell stories.</h3>
             <p className="ad-caption-body" data-en="A single frame holds a lifetime lived. We document our subjects as they are — with quiet honesty and deep respect. Etching the moments that words cannot reach." data-ja="一枚一枚に、生きた時間が宿る。私たちは被写体をありのままに、静かな敬意をもって記録する。言葉では届かない瞬間を。">A single frame holds a lifetime lived. We document our subjects as they are — with quiet honesty and deep respect. Etching the moments that words cannot reach.</p>
+          </div>
+        </div>
+      </section>
+
+      {/* PRODUCT PHOTOGRAPHY */}
+      <section className="product-photo" id="product">
+        <div className="reveal">
+          <div className="section-label">Product Photography</div>
+          <h2 className="work-h2">Objects<br />in Light.</h2>
+          <p className="section-caption" data-en="Every object has a soul. We seek out what makes it irresistible. For over 15 years, we've pursued the art of sizzle in our own studio — bringing products to life, one shot at a time." data-ja="すべての物に、宿るものがある。それを引き出す魅力を、私たちは探す。我々は15年以上、自社スタジオを持ち、商品のシズルを追求し続けてきました。">Every object has a soul. We seek out what makes it irresistible. For over 15 years, we've pursued the art of sizzle in our own studio — bringing products to life, one shot at a time.</p>
+        </div>
+        <div className="pp-grid">
+          <div className="pp-item reveal d1">
+            <div className="pp-inner" style={{backgroundImage: "url('/work-1.jpg')"}}></div>
+          </div>
+          <div className="pp-item reveal d2">
+            <div className="pp-inner" style={{backgroundImage: "url('/work-2.jpg')"}}></div>
+          </div>
+          <div className="pp-item reveal d3">
+            <div className="pp-inner" style={{backgroundImage: "url('/work-3.jpg')"}}></div>
+          </div>
+          <div className="pp-item reveal d4">
+            <div className="pp-inner" style={{backgroundImage: "url('/pp-1.jpg')"}}></div>
+          </div>
+          <div className="pp-item reveal d1">
+            <div className="pp-inner" style={{backgroundImage: "url('/pp-2.jpg')"}}></div>
+          </div>
+          <div className="pp-item reveal d2">
+            <div className="pp-inner" style={{backgroundImage: "url('/pp-3.jpg')"}}></div>
+          </div>
+          <div className="pp-item reveal d3">
+            <div className="pp-inner" style={{backgroundImage: "url('/pp-4.jpg')"}}></div>
+          </div>
+          <div className="pp-item reveal d4">
+            <div className="pp-inner" style={{backgroundImage: "url('/pp-5.jpg')"}}></div>
           </div>
         </div>
       </section>
