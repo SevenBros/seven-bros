@@ -217,7 +217,7 @@ export default function Home() {
           <div className="ad-caption">
             <p className="ad-caption-eyebrow" data-en="Documentary" data-ja="ドキュメンタリー">Documentary</p>
             <h3 className="ad-caption-title">Moments that<br />tell stories.</h3>
-            <p className="ad-caption-body" data-en="Every face holds a lifetime of stories. We document people with honesty and quiet respect — capturing moments that words alone cannot reach." data-ja="一枚に、生きた時間が宿る。私たちは被写体をありのままに、静かな敬意をもって記録する。言葉では届かない瞬間を刻む。">Every face holds a lifetime of stories. We document people with honesty and quiet respect — capturing moments that words alone cannot reach.</p>
+            <p className="ad-caption-body" data-en="A single frame holds a lifetime lived. We document our subjects as they are — with quiet honesty and deep respect. Etching the moments that words cannot reach." data-ja="一枚一枚に、生きた時間が宿る。私たちは被写体をありのままに、静かな敬意をもって記録する。言葉では届かない瞬間を刻む。">A single frame holds a lifetime lived. We document our subjects as they are — with quiet honesty and deep respect. Etching the moments that words cannot reach.</p>
           </div>
         </div>
       </section>
