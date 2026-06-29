@@ -242,7 +242,7 @@ export default function Home() {
             data-en="Founded in California, with a base also in Tokyo — Seven Bros. Pictures has spent over 15 years as a hub between commerce and art. We partner with brands, agencies, and artists who refuse to settle, and together we make work that lasts."
             data-ja="カリフォルニア発、東京にも拠点を構えるSeven Bros. Pictures。15年以上にわたり、商業とアートのハブとして仕事を続けてきた。妥協しないブランド、エージェンシー、アーティストとともに、残り続ける作品を作る。"
           >
-            Founded in California, with a studio also in Tokyo — Seven Bros. Pictures has spent over 15 years as a hub between commerce and art. We partner with brands, agencies, and artists who refuse to settle, and together we make work that lasts.
+            Founded in California, with a base also in Tokyo — Seven Bros. Pictures has spent over 15 years as a hub between commerce and art. We partner with brands, agencies, and artists who refuse to settle, and together we make work that lasts.
           </p>
         </div>
       </section>
