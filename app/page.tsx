@@ -239,14 +239,10 @@ export default function Home() {
           </p>
           <p
             className="statement-sub reveal d2"
-            data-en="Seven Bros. Pictures Inc. is a creative production company based in California and Tokyo. We believe photography and film are not just visuals — they move people, tell stories, and document eras. Together with brands and artists who share our vision, we continue creating work that brings new meaning to the world."
-            data-ja="Seven Bros. Pictures Inc.は、カリフォルニアと東京を拠点とするクリエイティブ・プロダクションです。私たちは、写真や映像を単なるビジュアルではなく、人の心を動かし、物語や時代を記録する表現だと考えています。志を共有するブランドやアーティストとともに、新しい価値を生み出す作品づくりを続けています。"
+            data-en="Founded in California, with a studio also in Tokyo — Seven Bros. Pictures has spent over 15 years as a hub between commerce and art. We partner with brands, agencies, and artists who refuse to settle, and together we make work that lasts."
+            data-ja="カリフォルニア発、東京にも拠点を構えるSeven Bros. Pictures。15年以上にわたり、商業とアートのハブとして仕事を続けてきた。妥協しないブランド、エージェンシー、アーティストとともに、残り続ける作品を作る。"
           >
-            Seven Bros. Pictures Inc. is a creative production company
-            based in California and Tokyo. We believe photography and film
-            are not just visuals — they move people, tell stories, and
-            document eras. Together with brands and artists who share our
-            vision, we continue creating work that brings new meaning to the world.
+            Founded in California, with a studio also in Tokyo — Seven Bros. Pictures has spent over 15 years as a hub between commerce and art. We partner with brands, agencies, and artists who refuse to settle, and together we make work that lasts.
           </p>
         </div>
       </section>
