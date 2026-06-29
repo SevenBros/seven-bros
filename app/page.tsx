@@ -91,11 +91,11 @@ export default function Home() {
       <section className="hero">
         <div className="hero-bg">
           <div className="vimeo-reel">
-            <iframe className="vimeo-slide" src="https://player.vimeo.com/video/1201095440?autoplay=1&muted=1&loop=1&background=1&autopause=0" frameBorder={0} allow="autoplay; fullscreen" allowFullScreen></iframe>
-            <iframe className="vimeo-slide" src="https://player.vimeo.com/video/77426452?autoplay=1&muted=1&loop=1&background=1&autopause=0" frameBorder={0} allow="autoplay; fullscreen" allowFullScreen></iframe>
-            <iframe className="vimeo-slide" src="https://player.vimeo.com/video/1201094737?autoplay=1&muted=1&loop=1&background=1&autopause=0" frameBorder={0} allow="autoplay; fullscreen" allowFullScreen></iframe>
-            <iframe className="vimeo-slide" src="https://player.vimeo.com/video/89206674?autoplay=1&muted=1&loop=1&background=1&autopause=0" frameBorder={0} allow="autoplay; fullscreen" allowFullScreen></iframe>
-            <iframe className="vimeo-slide" src="https://player.vimeo.com/video/579248574?autoplay=1&muted=1&loop=1&background=1&autopause=0" frameBorder={0} allow="autoplay; fullscreen" allowFullScreen></iframe>
+            <iframe className="vimeo-slide" src="https://player.vimeo.com/video/1205329894?autoplay=1&muted=1&loop=1&background=1&autopause=0" frameBorder={0} allow="autoplay; fullscreen" allowFullScreen></iframe>
+            <iframe className="vimeo-slide" src="https://player.vimeo.com/video/1205329937?autoplay=1&muted=1&loop=1&background=1&autopause=0" frameBorder={0} allow="autoplay; fullscreen" allowFullScreen></iframe>
+            <iframe className="vimeo-slide" src="https://player.vimeo.com/video/1205329735?autoplay=1&muted=1&loop=1&background=1&autopause=0" frameBorder={0} allow="autoplay; fullscreen" allowFullScreen></iframe>
+            <iframe className="vimeo-slide" src="https://player.vimeo.com/video/1205329642?autoplay=1&muted=1&loop=1&background=1&autopause=0" frameBorder={0} allow="autoplay; fullscreen" allowFullScreen></iframe>
+            <iframe className="vimeo-slide" src="https://player.vimeo.com/video/1205329876?autoplay=1&muted=1&loop=1&background=1&autopause=0" frameBorder={0} allow="autoplay; fullscreen" allowFullScreen></iframe>
           </div>
         </div>
         <div className="hero-grain"></div>
