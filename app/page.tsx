@@ -246,7 +246,7 @@ export default function Home() {
           </p>
         </div>
         <div className="bts-grid">
-          {[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16].map(n => (
+          {[1,2,3,8].map(n => (
             // eslint-disable-next-line @next/next/no-img-element
             <img key={n} src={`/bts-${n}.jpg`} alt="" className="bts-img" />
           ))}
