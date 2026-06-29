@@ -203,6 +203,16 @@ export default function Home() {
         </div>
         <div className="ad-feature">
           {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/ad-8.jpg" alt="" className="ad-img-fit" />
+          <div className="ad-caption">
+            <p className="ad-caption-eyebrow" data-en="Documentary" data-ja="ドキュメンタリー">Documentary</p>
+            <h3 className="ad-caption-title">Faces that<br />tell stories.</h3>
+            <p className="ad-caption-body" data-en="Every face holds a lifetime of stories. We document people with honesty and quiet respect — capturing moments that words alone cannot reach." data-ja="一枚に、生きてきた時間が宿る。私たちは人をありのままに、静かな敬意をもって記録する。言葉では届かない瞬間を、光で切り取る。">Every face holds a lifetime of stories. We document people with honesty and quiet respect — capturing moments that words alone cannot reach.</p>
+          </div>
+        </div>
+
+        <div className="ad-feature">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src="/auto-1.jpg" alt="" className="ad-img-fit" />
           <div className="ad-caption">
             <p className="ad-caption-eyebrow" data-en="Automotive" data-ja="オートモーティブ">Automotive</p>
