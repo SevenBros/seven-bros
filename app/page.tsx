@@ -203,21 +203,21 @@ export default function Home() {
         </div>
         <div className="ad-feature">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/ad-8.jpg" alt="" className="ad-img-fit" />
+          <img src="/auto-1.jpg" alt="" className="ad-img-fit" />
           <div className="ad-caption">
-            <p className="ad-caption-eyebrow" data-en="Documentary" data-ja="ドキュメンタリー">Documentary</p>
-            <h3 className="ad-caption-title">Moments that<br />tell stories.</h3>
-            <p className="ad-caption-body" data-en="Every face holds a lifetime of stories. We document people with honesty and quiet respect — capturing moments that words alone cannot reach." data-ja="一枚に、生きてきた時間が宿る。私たちは人をありのままに、静かな敬意をもって記録する。言葉では届かない瞬間を、光で切り取る。">Every face holds a lifetime of stories. We document people with honesty and quiet respect — capturing moments that words alone cannot reach.</p>
+            <p className="ad-caption-eyebrow" data-en="Automotive" data-ja="オートモーティブ">Automotive</p>
+            <h3 className="ad-caption-title">Built to<br />move.</h3>
+            <p className="ad-caption-body" data-en="From raw power to refined detail — we shoot from the angle that best serves each client's needs. Every frame is crafted with one clear intent: to capture the hearts of those who see it." data-ja="力強さから繊細なディテールまで、クライアントのニーズに応じた最適なアングルで撮影します。すべてのカットに、見る者の心を掴むという明確な意図があります。">From raw power to refined detail — we shoot from the angle that best serves each client's needs. Every frame is crafted with one clear intent: to capture the hearts of those who see it.</p>
           </div>
         </div>
 
         <div className="ad-feature">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/auto-1.jpg" alt="" className="ad-img-fit" />
+          <img src="/ad-8.jpg" alt="" className="ad-img-fit" />
           <div className="ad-caption">
-            <p className="ad-caption-eyebrow" data-en="Automotive" data-ja="オートモーティブ">Automotive</p>
-            <h3 className="ad-caption-title">Built to<br />move.</h3>
-            <p className="ad-caption-body" data-en="From raw power to refined detail — we shoot from the angle that best serves each client's needs. Every frame is crafted with one clear intent: to capture the hearts of those who see it." data-ja="力強さから繊細なディテールまで、クライアントのニーズに応じた最適なアングルで撮影します。すべてのカットに、見る者の心を掴むという明確な意図があります。">From raw power to refined detail — we capture machines the way they deserve to be seen. Every shot is engineered for impact.</p>
+            <p className="ad-caption-eyebrow" data-en="Documentary" data-ja="ドキュメンタリー">Documentary</p>
+            <h3 className="ad-caption-title">Moments that<br />tell stories.</h3>
+            <p className="ad-caption-body" data-en="Every face holds a lifetime of stories. We document people with honesty and quiet respect — capturing moments that words alone cannot reach." data-ja="一枚に、生きてきた時間が宿る。私たちは人をありのままに、静かな敬意をもって記録する。言葉では届かない瞬間を、光で切り取る。">Every face holds a lifetime of stories. We document people with honesty and quiet respect — capturing moments that words alone cannot reach.</p>
           </div>
         </div>
       </section>
