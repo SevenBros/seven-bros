@@ -310,11 +310,23 @@ export default function Home() {
           <div className="offices">
             <div className="office">
               <p className="office-city">California</p>
-              <p className="office-info">Los Angeles<br />United States</p>
+              <p
+                className="office-info"
+                data-en-html="Los Angeles<br />United States"
+                data-ja-html="ロサンゼルス<br />アメリカ合衆国"
+              >
+                Los Angeles<br />United States
+              </p>
             </div>
             <div className="office">
               <p className="office-city">Tokyo</p>
-              <p className="office-info">恵比寿西 2-4-8<br />ウィンド恵比寿ビル 8F<br />渋谷区, 東京</p>
+              <p
+                className="office-info"
+                data-en-html="2-4-8 Ebisu-nishi<br />Wind Ebisu Bldg. 8F<br />Shibuya-ku, Tokyo"
+                data-ja-html="恵比寿西 2-4-8<br />ウィンド恵比寿ビル 8F<br />渋谷区, 東京"
+              >
+                恵比寿西 2-4-8<br />ウィンド恵比寿ビル 8F<br />渋谷区, 東京
+              </p>
             </div>
           </div>
         </div>
