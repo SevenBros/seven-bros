@@ -168,7 +168,7 @@ export default function Home() {
           <div className="ad-caption">
             <p className="ad-caption-eyebrow" data-en="Our Approach" data-ja="私たちのアプローチ">Our Approach</p>
             <h3 className="ad-caption-title">In-house.<br />In sync.</h3>
-            <p className="ad-caption-body" data-en="Our photographers and designers work as one — from concept to final frame. The result is advertising that moves fast, stays consistent, and never compromises on craft." data-ja="カメラマンとデザイナーがインハウスでタッグを組み、コンセプトから仕上げまで一貫して制作します。スピーディーでありながら、ブレのないクリエイティブが実現します。">Our photographers and designers work as one — from concept to final frame. The result is advertising that moves fast, stays consistent, and never compromises on craft.</p>
+            <p className="ad-caption-body" data-en="Our photographers and designers work as one — from concept to final frame. The result is advertising that moves fast, stays consistent, and never compromises on craft." data-ja="カメラマンとデザイナーがインハウスでタッグを組み、コンセプトから仕上げまで一貫して制作します。スピーディーでありながら、ブレのないクリエイティブを実現します。">Our photographers and designers work as one — from concept to final frame. The result is advertising that moves fast, stays consistent, and never compromises on craft.</p>
           </div>
         </div>
         <div className="ad-feature">
