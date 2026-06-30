@@ -322,7 +322,7 @@ export default function Home() {
               <p className="office-city">Tokyo</p>
               <p
                 className="office-info"
-                data-en-html="2-4-8 Ebisu-nishi<br />Wind Ebisu Bldg. 8F<br />Shibuya-ku, Tokyo"
+                data-en-html="2-4-8 Ebisu-nishi<br />Wind Ebisu Bldg. 8F<br />Shibuya-ku, Tokyo Japan"
                 data-ja-html="恵比寿西 2-4-8<br />ウィンド恵比寿ビル 8F<br />渋谷区, 東京"
               >
                 恵比寿西 2-4-8<br />ウィンド恵比寿ビル 8F<br />渋谷区, 東京
