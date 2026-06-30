@@ -333,6 +333,7 @@ export default function Home() {
         <div className="contact-form reveal d2">
           <div className="form-actions">
             <button className="btn-send" data-en="Send Message" data-ja="送信する" onClick={() => { window.location.href = 'mailto:info@seven-bros.com'; }}>Send Message</button>
+            <span className="form-actions-or" data-en="or mei@seven-bros.com" data-ja="または mei@seven-bros.com">or mei@seven-bros.com</span>
           </div>
         </div>
       </section>

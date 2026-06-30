@@ -602,6 +602,9 @@ nav.scrolled {
 .btn-send:hover {
   background: var(--paper); border-color: var(--paper); color: var(--black);
 }
+.form-actions-or {
+  font-size: 12px; font-weight: 300; color: var(--mid);
+}
 .form-or { font-size: 10px; letter-spacing: .08em; color: rgba(242,237,228,.18); }
 .form-email {
   font-size: 11px; letter-spacing: .1em;
