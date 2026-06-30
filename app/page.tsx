@@ -250,7 +250,7 @@ export default function Home() {
           <p
             className="statement-sub reveal d3"
             data-en="Our greatest strength lies in our in-house team. Alongside seasoned production expertise, we have cinematographers, videographers, directors, assistants, hair & makeup artists, editors, and stylists all under one roof. Fast, flexible, and consistent in quality from brief to delivery — because everything happens in-house. Our commitment to quality starts at the top: our founder shoots. And that makes all the difference."
-            data-ja="我々の最大の強みは、経験豊富な製作力に加え、カメラマン、ビデオグラファー、ディレクター、アシスタント、ヘアメイク、エディター、スタイリストといったクリエイターがインハウスに在籍していること。受注から納品までスピーディーで柔軟、一貫したクオリティを維持できるのも、すべてがチーム内で完結できるから。クオリティへのこだわりはオーナー自らがカメラを持つことにも表れている。それが、多くのクライアントから評価を受けている理由です。"
+            data-ja="我々の最大の強みは、経験豊富な製作力に加え、カメラマン、ビデオグラファー、ディレクター、アシスタント、ヘアメイク、エディター、スタイリストといったクリエイターがインハウスに在籍していること。受注から納品までスピーディーで柔軟、一貫したクオリティを維持できるのも、すべてがチーム内で完結できるから。クオリティへのこだわりはオーナー自らがカメラを持つことにも表れている。それが、我々Seven Bros.が多くのクライアントから評価を受けている理由です。"
           >
             Our greatest strength lies in our in-house team. Alongside seasoned production expertise, we have cinematographers, videographers, directors, assistants, hair &amp; makeup artists, editors, and stylists all under one roof. Fast, flexible, and consistent in quality from brief to delivery — because everything happens in-house. Our commitment to quality starts at the top: our founder shoots. And that makes all the difference.
           </p>
