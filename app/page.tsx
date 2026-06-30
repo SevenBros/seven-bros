@@ -272,7 +272,7 @@ export default function Home() {
           <div className="svc reveal d1">
             <div className="svc-num">01</div>
             <h3 className="svc-title" data-en="Photography" data-ja="フォトグラフィー">Photography</h3>
-            <p className="svc-desc" data-en="Editorial, fashion, portrait, and commercial still photography. Every frame is composed with intention — light, shadow, and silence working together." data-ja="エディトリアル、ファッション、ポートレート、コマーシャルスチール。すべてのフレームに意図がある — 光、影、静寂が共鳴する。">
+            <p className="svc-desc" data-en="Editorial, fashion, portrait, and commercial still photography. Every frame is composed with intention — light, shadow, and silence working together." data-ja="エディトリアル、プロダクト、ドキュメンタリー、コマーシャルスチール。すべてのフレームに意図がある — 光、影、静寂が共鳴する。">
               Editorial, fashion, portrait, and commercial still photography.
               Every frame is composed with intention — light, shadow, and silence working together.
             </p>
