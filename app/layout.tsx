@@ -57,7 +57,7 @@ export default function RootLayout({
               "name": "Seven Bros. Pictures Inc.",
               "description": "Creative production company specializing in advertising photography, commercial film, automotive photography, and documentary. Based in Los Angeles and Tokyo.",
               "url": "https://seven-bros.com",
-              "foundingDate": "2017",
+              "foundingDate": "2013",
               "address": [
                 {
                   "@type": "PostalAddress",

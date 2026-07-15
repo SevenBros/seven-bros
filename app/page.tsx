@@ -105,7 +105,7 @@ export default function Home() {
         <div className="hero-vignette"></div>
         <div className="hero-bottom"></div>
         <div className="hero-content">
-          <p className="hero-eyebrow" data-en="California · Tokyo · Est. 2017" data-ja="カリフォルニア · 東京 · 2017年創業">California · Tokyo · Est. 2017</p>
+          <p className="hero-eyebrow" data-en="California · Tokyo · Est. 2013" data-ja="カリフォルニア · 東京 · 2013年創業">California · Tokyo · Est. 2013</p>
           <h1 className="hero-title">Seven Bros.<br /><em>Pictures</em></h1>
           <p className="hero-tagline" data-en="Stories Through Light." data-ja="光で、物語を。">Stories Through Light.</p>
         </div>
