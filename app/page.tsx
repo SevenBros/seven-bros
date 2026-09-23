@@ -53,9 +53,8 @@ export default function Home() {
       showSlide(current);
     }, INTERVAL);
 
-    /* LANG SWITCH - restore saved lang */
-    const saved = localStorage.getItem('sbp-lang') || 'en';
-    if (saved === 'ja') setLang('ja');
+    /* LANG SWITCH - always open in EN */
+    setLang('en');
 
     return () => {
       document.removeEventListener('mousemove', onMouseMove);
